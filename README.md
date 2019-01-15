@@ -1,15 +1,17 @@
+<!--
+# -*- mode: jinja -*-
+-->
+
 About r-rggobi
 ==============
 
-[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
-
-Home: http://www.ggobi.org/
+Home: https://github.com/ggobi/rggobi, http://www.ggobi.org/rggobi
 
 Package license: BSD_3_clause
 
 Feedstock license: BSD 3-Clause
 
-Summary: GGobi is an open source visualization program for exploring high-dimensional data. It provides highly dynamic and interactive graphics such as tours, as well as familiar graphics such as the scatterplot, barchart and parallel coordinates plots. Plots are interactive and linked with brushing and identification.
+Summary: A command-line interface to 'GGobi', an interactive and dynamic graphics package. 'Rggobi' complements the graphical user interface of 'GGobi' providing a way to fluidly transition between analysis and exploration, as well as automating common tasks.
 
 
 
@@ -51,6 +53,8 @@ conda search r-rggobi --channel conda-forge
 
 About conda-forge
 =================
+
+[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
 
 conda-forge is a community-led conda channel of installable packages.
 In order to provide high-quality builds, the process has been automated into the
@@ -110,6 +114,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@bgruening](https://github.com/bgruening/)
-* [@dpryan79](https://github.com/dpryan79/)
+* [@conda-forge/r](https://github.com/conda-forge/r/)
 
