@@ -51,7 +51,7 @@ test:
 
 about:
   home: https://github.com/ggobi/rggobi, http://www.ggobi.org/rggobi
-  license: BSD_3_clause
+  license: BSD-3-Clause
   summary: A command-line interface to 'GGobi', an interactive and dynamic graphics package.
     'Rggobi' complements the graphical user interface of 'GGobi' providing a way to
     fluidly transition between analysis and exploration, as well as automating common
