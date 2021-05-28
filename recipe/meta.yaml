@@ -37,12 +37,12 @@ requirements:
   host:
     - r-base
     - r-rgtk2
-    - ggobi
+    - ggobi >=2.1.6
   run:
     - r-base
     - {{ native }}gcc-libs         # [win]
     - r-rgtk2
-    - ggobi
+    - ggobi >=2.1.6
 
 test:
   commands:
