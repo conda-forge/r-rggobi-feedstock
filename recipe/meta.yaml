@@ -37,6 +37,7 @@ requirements:
   host:
     - r-base
     - r-rgtk2
+    - glib
     - ggobi >=2.1.6
   run:
     - r-base
